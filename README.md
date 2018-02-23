@@ -1,6 +1,6 @@
 # Super Simple TicTacToe game
 
-TicTacToe game made in Python with an AI using the Minimax Algorithm
+Text-based TicTacToe game made in Python with an AI using the Minimax Algorithm
 
 ## Running the game
 
